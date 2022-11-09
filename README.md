@@ -25,7 +25,7 @@ A fully functioning E-Commerce site that uses GraphQL to interface to a MongoDB 
 
 Demo:
 
-![Demo Link](https://evening-eyrie-83802.herokuapp.com/)
+[Demo Link](https://evening-eyrie-83802.herokuapp.com/)
 
 Screen Shot:
 
@@ -34,6 +34,10 @@ Screen Shot:
 ![Screen Shot](img/screen2.png)
 
 ![Screen Shot](img/screen3.png)
+
+![Screen Shot](img/screen4.png)
+
+![Screen Shot](img/screen5.png)
 
 
 ## Installation
