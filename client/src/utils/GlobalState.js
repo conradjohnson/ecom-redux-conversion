@@ -1,3 +1,7 @@
+//!!!!!!!!! This file no longer used!!!!!
+// converted to redux state
+// also, initial state now set in reducers
+
 import React, { createContext, useContext } from "react";
 import { useProductReducer } from './reducers'
 

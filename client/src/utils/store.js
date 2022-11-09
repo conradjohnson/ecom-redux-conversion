@@ -1,3 +1,5 @@
+
+//NEW Redux Store to replace GlobalState Context
 // Creates a Redux store that holds the state of the app. Only one store should exist.
 import { createStore } from 'redux';
 

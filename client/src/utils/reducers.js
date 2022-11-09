@@ -11,6 +11,8 @@ import {
   TOGGLE_CART
 } from "./actions";
 
+//Redux conversion change
+//new initial state set here rather than with GlobalState context
 const initialState = {
     products: [],
     cart: [],
